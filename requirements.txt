@@ -1,0 +1,13 @@
+streamlit
+ultralytics
+opencv-python-headless>=4.10.0.0
+torch
+torchvision
+numpy
+Pillow
+scikit-image
+scipy
+matplotlib
+tqdm
+PyYAML
+tensorboard
